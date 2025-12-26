@@ -1,0 +1,37 @@
+# -------------------------
+# Node / Backend
+# -------------------------
+node_modules/
+.env
+
+# -------------------------
+# ML API (DO NOT PUSH)
+# -------------------------
+ml-api/
+ml_api/
+ml/
+python-ml/
+*.pyc
+__pycache__/
+
+# -------------------------
+# Logs
+# -------------------------
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+
+# -------------------------
+# OS / Editor
+# -------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# -------------------------
+# Build / Cache
+# -------------------------
+dist/
+build/
